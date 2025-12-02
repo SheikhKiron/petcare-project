@@ -6,7 +6,7 @@ import Footer from '../Components/Footer';
 const Root = () => {
   return (
     <div>
-      <header className="md:w-9/12 mx-auto">
+      <header className="w-11/12 mx-auto">
         <Navbar></Navbar>
       </header>
       <main className='min-h-[calc(100vh-315.71px)]'>

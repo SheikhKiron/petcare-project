@@ -68,7 +68,7 @@ const Navbar = () => {
       <div className="navbar-end">
         {user /* && user.emailVerified*/ ? (
           <div>
-            <div className="md:mr-14 mr-[90px] lg:mr-0">
+            <div className="">
               {/* change popover-1 and --anchor-1 names. Use unique names for each dropdown */}
               {/* For TSX uncomment the commented types below */}
               <button
@@ -85,7 +85,7 @@ const Navbar = () => {
               </button>
 
               <ul
-                className="dropdown menu w-36 md:w-52 rounded-box bg-base-100 shadow-sm"
+                className="dropdown dropdown-end menu w-36 md:w-52 rounded-box bg-base-100 shadow-sm"
                 popover="auto"
                 id="popover-1"
                 style={
@@ -110,7 +110,7 @@ const Navbar = () => {
             </div>
           </div>
         ) : (
-          <div className='flex gap-4'>
+          <div className="flex gap-4">
             <Link to="/login" className="btn btn-success text-black">
               Login
             </Link>
