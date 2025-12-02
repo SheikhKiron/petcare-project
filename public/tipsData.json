@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "❄️ Keep Your Pet Warm",
+    "description": "Dress your pets in cozy sweaters or jackets during cold walks to protect them from the chilly weather."
+  },
+  {
+    "id": 2,
+    "title": "🛏️ Provide Warm Bedding",
+    "description": "Ensure your pet’s sleeping area is soft, warm, and away from cold floors or drafts."
+  },
+  {
+    "id": 3,
+    "title": "💧 Keep Them Hydrated",
+    "description": "Pets can get dehydrated in winter too — make sure they always have access to clean, fresh water."
+  },
+  {
+    "id": 4,
+    "title": "🐾 Limit Outdoor Time",
+    "description": "Avoid keeping your pets outside for too long in freezing temperatures to prevent frostbite or hypothermia."
+  },
+  {
+    "id": 5,
+    "title": "🥣 Provide Nutritious Meals",
+    "description": "Feed your pets well-balanced meals to help maintain their body heat and energy during cold months."
+  }
+]

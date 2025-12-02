@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Dog & Cat Specialist",
+    "image": "https://dpeus.net/wp-content/uploads/2019/10/team-1-770x460.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Lee",
+    "specialization": "Pet Nutrition Expert",
+    "image": "https://uscvhh.org/wp-content/uploads/2023/12/michael-young-lee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Brown",
+    "specialization": "Grooming & Skin Care",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwPD_-ZhD91rfiBi2w6DVmvinzwdjmxK5JA&s"
+  },
+  {
+    "id": 4,
+    "name": "Dr. James Wilson",
+    "specialization": "Behavioral Therapist",
+    "image": "https://i.pinimg.com/236x/4c/20/a3/4c20a32a07131546f9ff96c295e0fc00.jpg"
+  }
+]

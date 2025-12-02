@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "petName": "Buddy",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "feedback": "WarmPaws helped me find the best winter clothing for Buddy. He stayed cozy all season!",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "petName": "Luna",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "feedback": "The grooming tips were really helpful. Luna loves her new winter haircut!",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "Sophia Lee",
+    "petName": "Max",
+    "image": "https://randomuser.me/api/portraits/women/22.jpg",
+    "feedback": "The vet advice section is amazing. Max stayed healthy and happy during winter.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "petName": "Bella",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "feedback": "Found local pet care services easily. Bella’s winter routine is now stress-free!",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "petName": "Charlie",
+    "image": "https://randomuser.me/api/portraits/women/50.jpg",
+    "feedback": "Loved the winter safety tips! Charlie was warm and playful throughout the cold months.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "James Wilson",
+    "petName": "Milo",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "feedback": "Highly recommend WarmPaws for any pet owner during winter. The advice is practical and easy to follow.",
+    "rating": 5
+  }
+]
